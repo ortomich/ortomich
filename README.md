@@ -8,3 +8,4 @@
 #### Github Stats 📊
 
 [![Ortomich's github stats](https://github-readme-stats.vercel.app/api?username=ortomich)](https://github.com/anuraghazra/github-readme-stats)
+[![Ortomich's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ortomich&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
